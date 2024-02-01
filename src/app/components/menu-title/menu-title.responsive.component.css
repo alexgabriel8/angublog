@@ -1,0 +1,5 @@
+.menu-title__title {
+    @media (max-width: 900px) {
+        font-size: 85px;
+    }
+}

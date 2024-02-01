@@ -1,0 +1,10 @@
+.menu-bar > ul {
+    display: flex;
+    gap: 20px;
+}
+
+.menu-bar > ul > li:hover {
+    filter: brightness(150%);
+
+    transition: filter 0.3s;
+}

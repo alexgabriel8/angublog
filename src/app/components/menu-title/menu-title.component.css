@@ -1,0 +1,15 @@
+.menu-title {
+    color: #FFF;
+}
+
+.menu-title__title {
+    margin: 15px 0;
+    display: flex;
+    justify-content: center;
+    font-size: 135px;
+    font-weight: bolder;
+}
+
+.menu-title > hr {
+    margin: 20px 0;
+}

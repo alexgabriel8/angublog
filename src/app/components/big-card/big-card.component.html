@@ -1,0 +1,20 @@
+<div class="big-card">
+    <a [routerLink]="['content', id]">
+        <div class="big-card__photo">
+            <img
+                src="{{ cover }}"
+                alt="Imagem do artigo"
+            >
+        </div>
+    </a>
+        <a [routerLink]="['content', id]">
+            <div class="big-card__title">
+                <h2>{{ title }}</h2>
+            </div>
+        </a>
+        <a [routerLink]="['content', id]">
+            <div class="big-card__description">
+                <p>{{ description }}</p>
+            </div>
+        </a>
+</div>

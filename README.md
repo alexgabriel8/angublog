@@ -1,27 +1,19 @@
-# Angublog
+# Summary
+- [Angublog](#angublog-work-in-progress)
+    - [Built With](#built-with)
+    - [Installation](#installation)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
+# Angublog (Work in Progress)
 
-## Development server
+Blog made in a [DIO](https://www.dio.me) Bootcamp with its design inspired in a [Dwinaman's design](https://dribbble.com/shots/18089191-Blog-Layout).
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Built with
 
-## Code scaffolding
+- <strong>HTML5, CSS3</strong>: Provides structure and styling for the app.
+    - <strong><abbr title="Block Element Modifier">BEM</abbr></strong>: CSS methodology for easier understanding of the styling hierarchy.
+- <strong>JavaScript + [TypeScript](https://www.typescriptlang.org/)</strong>: JS allows user interaction with the app and TS makes the code type-safe, less prone to bugs.
+- <strong>[Angular](https://angular.io/)</strong>: Turns App into a SPA, providing a smoother user experience. Development is easier by treating code as components, smaller pieces of code that can be reused and don't affect unrelated ones.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Installation
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+1. 

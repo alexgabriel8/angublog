@@ -1,0 +1,13 @@
+<div class="small-card">
+    <div class="small-card__photo">
+        <img
+            src="{{ cover }}"
+            alt="Imagem do artigo"
+        >
+    </div>
+    <div class="small-card__title">
+        <a [routerLink]="['content', id]">
+            <h2>{{ title }}</h2>
+        </a>
+    </div>
+</div>
